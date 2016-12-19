@@ -1,4 +1,4 @@
-package enums;
+package java.common.enums;
 
 public enum Week {
 
